@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    font-size: 1.1em;
+   
+}
+
+.custom-bg-color-card{
+    background-color: rgb(163, 69, 226);
+}
+
+.music-bg-color{
+    background-color: #29cf79;
+}
+
+.bank-bg-color{
+    background-color: #14b9de;
+}
+
+.zodiac-bg-color{
+    background-color: #a710e3;
+}
